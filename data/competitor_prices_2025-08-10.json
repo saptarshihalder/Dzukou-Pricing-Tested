@@ -1,0 +1,566 @@
+{
+  "SG0001": [
+    {
+      "source": "Amazon",
+      "url": "https://example.com",
+      "matched_title": "Reiek Peak Wooden Sunglasses (Incl. cork casing)",
+      "match_score": 0.86,
+      "effective_price": 53.66,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Walmart",
+      "url": "https://example.com",
+      "matched_title": "Reiek Peak Wooden Sunglasses (Incl. cork casing)",
+      "match_score": 0.85,
+      "effective_price": 48.85,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Target",
+      "url": "https://example.com",
+      "matched_title": "Reiek Peak Wooden Sunglasses (Incl. cork casing)",
+      "match_score": 0.96,
+      "effective_price": 50.62,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "BestBuy",
+      "url": "https://example.com",
+      "matched_title": "Reiek Peak Wooden Sunglasses (Incl. cork casing)",
+      "match_score": 0.89,
+      "effective_price": 63.44,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "eBay",
+      "url": "https://example.com",
+      "matched_title": "Reiek Peak Wooden Sunglasses (Incl. cork casing)",
+      "match_score": 0.86,
+      "effective_price": 59.13,
+      "currency": "USD",
+      "stock": "in_stock"
+    }
+  ],
+  "SG0002": [
+    {
+      "source": "Amazon",
+      "url": "https://example.com",
+      "matched_title": "Fibonacci Wooden Sunglasses (Incl. cork casing)",
+      "match_score": 0.86,
+      "effective_price": 70.75,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Walmart",
+      "url": "https://example.com",
+      "matched_title": "Fibonacci Wooden Sunglasses (Incl. cork casing)",
+      "match_score": 0.98,
+      "effective_price": 51.37,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Target",
+      "url": "https://example.com",
+      "matched_title": "Fibonacci Wooden Sunglasses (Incl. cork casing)",
+      "match_score": 0.82,
+      "effective_price": 54.84,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "BestBuy",
+      "url": "https://example.com",
+      "matched_title": "Fibonacci Wooden Sunglasses (Incl. cork casing)",
+      "match_score": 0.84,
+      "effective_price": 61.63,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "eBay",
+      "url": "https://example.com",
+      "matched_title": "Fibonacci Wooden Sunglasses (Incl. cork casing)",
+      "match_score": 0.84,
+      "effective_price": 56.55,
+      "currency": "USD",
+      "stock": "in_stock"
+    }
+  ],
+  "BT0005": [
+    {
+      "source": "Amazon",
+      "url": "https://example.com",
+      "matched_title": "Elephant Falls Thermos Bottle ",
+      "match_score": 0.86,
+      "effective_price": 36.96,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Walmart",
+      "url": "https://example.com",
+      "matched_title": "Elephant Falls Thermos Bottle ",
+      "match_score": 0.97,
+      "effective_price": 34.86,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Target",
+      "url": "https://example.com",
+      "matched_title": "Elephant Falls Thermos Bottle ",
+      "match_score": 0.87,
+      "effective_price": 37.33,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "BestBuy",
+      "url": "https://example.com",
+      "matched_title": "Elephant Falls Thermos Bottle ",
+      "match_score": 0.8,
+      "effective_price": 28.83,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "eBay",
+      "url": "https://example.com",
+      "matched_title": "Elephant Falls Thermos Bottle ",
+      "match_score": 0.84,
+      "effective_price": 33.06,
+      "currency": "USD",
+      "stock": "in_stock"
+    }
+  ],
+  "BT0012-13": [
+    {
+      "source": "Amazon",
+      "url": "https://example.com",
+      "matched_title": "Saint Elias Thermos bottles",
+      "match_score": 0.86,
+      "effective_price": 38.91,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Walmart",
+      "url": "https://example.com",
+      "matched_title": "Saint Elias Thermos bottles",
+      "match_score": 0.94,
+      "effective_price": 28.49,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Target",
+      "url": "https://example.com",
+      "matched_title": "Saint Elias Thermos bottles",
+      "match_score": 0.84,
+      "effective_price": 29.98,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "BestBuy",
+      "url": "https://example.com",
+      "matched_title": "Saint Elias Thermos bottles",
+      "match_score": 0.85,
+      "effective_price": 38.16,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "eBay",
+      "url": "https://example.com",
+      "matched_title": "Saint Elias Thermos bottles",
+      "match_score": 0.88,
+      "effective_price": 32.61,
+      "currency": "USD",
+      "stock": "in_stock"
+    }
+  ],
+  "BT0015-16": [
+    {
+      "source": "Amazon",
+      "url": "https://example.com",
+      "matched_title": "Inca Trail Coffee Mugs",
+      "match_score": 0.92,
+      "effective_price": 34.0,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Walmart",
+      "url": "https://example.com",
+      "matched_title": "Inca Trail Coffee Mugs",
+      "match_score": 0.99,
+      "effective_price": 33.49,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Target",
+      "url": "https://example.com",
+      "matched_title": "Inca Trail Coffee Mugs",
+      "match_score": 0.94,
+      "effective_price": 27.1,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "BestBuy",
+      "url": "https://example.com",
+      "matched_title": "Inca Trail Coffee Mugs",
+      "match_score": 0.87,
+      "effective_price": 29.11,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "eBay",
+      "url": "https://example.com",
+      "matched_title": "Inca Trail Coffee Mugs",
+      "match_score": 0.84,
+      "effective_price": 32.95,
+      "currency": "USD",
+      "stock": "in_stock"
+    }
+  ],
+  "PS0007": [
+    {
+      "source": "Amazon",
+      "url": "https://example.com",
+      "matched_title": "Woodland Mouse Phone Stand",
+      "match_score": 0.95,
+      "effective_price": 21.21,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Walmart",
+      "url": "https://example.com",
+      "matched_title": "Woodland Mouse Phone Stand",
+      "match_score": 0.9,
+      "effective_price": 16.58,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Target",
+      "url": "https://example.com",
+      "matched_title": "Woodland Mouse Phone Stand",
+      "match_score": 0.84,
+      "effective_price": 20.17,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "BestBuy",
+      "url": "https://example.com",
+      "matched_title": "Woodland Mouse Phone Stand",
+      "match_score": 0.84,
+      "effective_price": 16.13,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "eBay",
+      "url": "https://example.com",
+      "matched_title": "Woodland Mouse Phone Stand",
+      "match_score": 0.9,
+      "effective_price": 21.07,
+      "currency": "USD",
+      "stock": "in_stock"
+    }
+  ],
+  "NB0011-12": [
+    {
+      "source": "Amazon",
+      "url": "https://example.com",
+      "matched_title": "Tiger Trail Notebooks",
+      "match_score": 0.91,
+      "effective_price": 28.6,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Walmart",
+      "url": "https://example.com",
+      "matched_title": "Tiger Trail Notebooks",
+      "match_score": 0.96,
+      "effective_price": 26.79,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Target",
+      "url": "https://example.com",
+      "matched_title": "Tiger Trail Notebooks",
+      "match_score": 0.86,
+      "effective_price": 22.56,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "BestBuy",
+      "url": "https://example.com",
+      "matched_title": "Tiger Trail Notebooks",
+      "match_score": 0.87,
+      "effective_price": 22.9,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "eBay",
+      "url": "https://example.com",
+      "matched_title": "Tiger Trail Notebooks",
+      "match_score": 0.8,
+      "effective_price": 28.07,
+      "currency": "USD",
+      "stock": "in_stock"
+    }
+  ],
+  "NB0013-15": [
+    {
+      "source": "Amazon",
+      "url": "https://example.com",
+      "matched_title": "Papillon Notebooks",
+      "match_score": 0.91,
+      "effective_price": 22.65,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Walmart",
+      "url": "https://example.com",
+      "matched_title": "Papillon Notebooks",
+      "match_score": 0.81,
+      "effective_price": 19.57,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Target",
+      "url": "https://example.com",
+      "matched_title": "Papillon Notebooks",
+      "match_score": 0.9,
+      "effective_price": 27.57,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "BestBuy",
+      "url": "https://example.com",
+      "matched_title": "Papillon Notebooks",
+      "match_score": 0.87,
+      "effective_price": 24.86,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "eBay",
+      "url": "https://example.com",
+      "matched_title": "Papillon Notebooks",
+      "match_score": 0.81,
+      "effective_price": 23.73,
+      "currency": "USD",
+      "stock": "in_stock"
+    }
+  ],
+  "LB0017": [
+    {
+      "source": "Amazon",
+      "url": "https://example.com",
+      "matched_title": "Jim Corbett Lunchbox Band 1200ML",
+      "match_score": 0.87,
+      "effective_price": 27.66,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Walmart",
+      "url": "https://example.com",
+      "matched_title": "Jim Corbett Lunchbox Band 1200ML",
+      "match_score": 0.84,
+      "effective_price": 29.77,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Target",
+      "url": "https://example.com",
+      "matched_title": "Jim Corbett Lunchbox Band 1200ML",
+      "match_score": 0.9,
+      "effective_price": 32.19,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "BestBuy",
+      "url": "https://example.com",
+      "matched_title": "Jim Corbett Lunchbox Band 1200ML",
+      "match_score": 0.9,
+      "effective_price": 38.44,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "eBay",
+      "url": "https://example.com",
+      "matched_title": "Jim Corbett Lunchbox Band 1200ML",
+      "match_score": 0.97,
+      "effective_price": 29.4,
+      "currency": "USD",
+      "stock": "in_stock"
+    }
+  ],
+  "LB0019": [
+    {
+      "source": "Amazon",
+      "url": "https://example.com",
+      "matched_title": "Jim Corbett Lunchbox Band 800ML",
+      "match_score": 0.89,
+      "effective_price": 30.79,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Walmart",
+      "url": "https://example.com",
+      "matched_title": "Jim Corbett Lunchbox Band 800ML",
+      "match_score": 0.86,
+      "effective_price": 35.28,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Target",
+      "url": "https://example.com",
+      "matched_title": "Jim Corbett Lunchbox Band 800ML",
+      "match_score": 0.82,
+      "effective_price": 31.57,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "BestBuy",
+      "url": "https://example.com",
+      "matched_title": "Jim Corbett Lunchbox Band 800ML",
+      "match_score": 0.9,
+      "effective_price": 31.08,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "eBay",
+      "url": "https://example.com",
+      "matched_title": "Jim Corbett Lunchbox Band 800ML",
+      "match_score": 0.8,
+      "effective_price": 29.14,
+      "currency": "USD",
+      "stock": "in_stock"
+    }
+  ],
+  "SH0017-26": [
+    {
+      "source": "Amazon",
+      "url": "https://example.com",
+      "matched_title": "Timeless Silk Colored Stole",
+      "match_score": 0.81,
+      "effective_price": 65.39,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Walmart",
+      "url": "https://example.com",
+      "matched_title": "Timeless Silk Colored Stole",
+      "match_score": 0.86,
+      "effective_price": 60.96,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Target",
+      "url": "https://example.com",
+      "matched_title": "Timeless Silk Colored Stole",
+      "match_score": 0.87,
+      "effective_price": 73.71,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "BestBuy",
+      "url": "https://example.com",
+      "matched_title": "Timeless Silk Colored Stole",
+      "match_score": 0.83,
+      "effective_price": 71.91,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "eBay",
+      "url": "https://example.com",
+      "matched_title": "Timeless Silk Colored Stole",
+      "match_score": 0.93,
+      "effective_price": 77.52,
+      "currency": "USD",
+      "stock": "in_stock"
+    }
+  ],
+  "SH0025": [
+    {
+      "source": "Amazon",
+      "url": "https://example.com",
+      "matched_title": "Silk Uncut White Stole",
+      "match_score": 0.81,
+      "effective_price": 123.57,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Walmart",
+      "url": "https://example.com",
+      "matched_title": "Silk Uncut White Stole",
+      "match_score": 0.85,
+      "effective_price": 106.59,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "Target",
+      "url": "https://example.com",
+      "matched_title": "Silk Uncut White Stole",
+      "match_score": 0.86,
+      "effective_price": 134.85,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "BestBuy",
+      "url": "https://example.com",
+      "matched_title": "Silk Uncut White Stole",
+      "match_score": 0.99,
+      "effective_price": 93.54,
+      "currency": "USD",
+      "stock": "in_stock"
+    },
+    {
+      "source": "eBay",
+      "url": "https://example.com",
+      "matched_title": "Silk Uncut White Stole",
+      "match_score": 0.83,
+      "effective_price": 129.71,
+      "currency": "USD",
+      "stock": "in_stock"
+    }
+  ]
+}
